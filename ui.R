@@ -113,7 +113,7 @@ body <- dashboardBody(
               column(10,
                      h1("Ficha de consumo"),
                      br(),
-                     h3("La presente aplicacion le permitira realizar analisis RFM, utilizar para segmentar grupos clientes , se nutre del comportamiento historico transaccional. Tendra la opcion de descargar la base de datos calificada segun los Score generados en el analisis. Importante: Tener en cuenta que el formato de la fecha sea correcto."),
+                     h3("La presente aplicacion le permitira al usuario realizar analisis RFM, utilizar para segmentar grupos clientes , se nutre del comportamiento historico transaccional. Tendra la opcion de descargar la base de datos calificada segun los Score generados en el analisis. Importante: Tener en cuenta que el formato de la fecha sea correcto."),
                      br(),
                      div(img(src = "Manual.gif", width = 1200)),
 
